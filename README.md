@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **theaaronhanks/theaaronhanks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# @theaaronhanks
+
+## Introduction
+
+I'm @theaaronhanks. I'm a student studying Computer Science at Utah State University, and I plan to graduate May of 2024.
+
+## Contact Information
+
+Contact me by email at [theaaronhanks@gmail.com](mailto:theaaronhanks@gmail.com)
