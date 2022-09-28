@@ -17,9 +17,17 @@ Here are some ideas to get you started:
 
 ## Introduction
 
-I'm @theaaronhanks. I'm a student studying Computer Science at Utah State University, and I plan to graduate May of 2024.
+I'm @theaaronhanks. I'm a student studying Computer Science at Utah State University, and I plan to graduate May of 2024. I am interested in many areas of software development including cyber security, game development, and mobile application development.
 
-I am interested in Game Development and Cyber Security.
+## Current Employment
+
+I am currently working for PhotoHive as a full stack web developer. PhotoHive creates an opportunity for photographers to upload pictures of race events, and participants can choose to purchase and download those pictures. Their website can be accessed [here](https://photohive.pro)
+
+In addition I work as a Computer Science Coach for the Utah State University Computer Science Department. The Utah State University Computer Science Coaching Lab is a tutoring center focused on helping students overcome conceptual and implementation based challenges in a comfortable and constructive environment.
+
+## Learning
+
+I am currently learning to develop Android applications using JetPack Compose and Kotlin. I am also learning about operating systems and computer architecture
 
 ## Contact Information
 
