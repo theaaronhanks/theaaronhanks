@@ -27,7 +27,7 @@ In addition I work as a Computer Science Coach for the Utah State University Com
 
 ## Learning
 
-I am currently learning to develop Android applications using JetPack Compose and Kotlin. I am also learning about operating systems and computer architecture
+I am currently learning to develop Android applications using Jetpack Compose and Kotlin. I am also learning about operating systems and computer architecture
 
 ## Contact Information
 
