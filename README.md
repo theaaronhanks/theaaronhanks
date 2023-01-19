@@ -21,14 +21,12 @@ I'm @theaaronhanks. I'm a student studying Computer Science at Utah State Univer
 
 ## Current Employment
 
-I am currently working for PhotoHive as a full stack web developer. PhotoHive creates an opportunity for photographers to upload pictures of race events, and participants can choose to purchase and download those pictures. Their website can be accessed [here](https://photohive.pro)
-
-In addition I work as a Computer Science Coach for the Utah State University Computer Science Department. The Utah State University Computer Science Coaching Lab is a tutoring center focused on helping students overcome conceptual and implementation based challenges in a comfortable and constructive environment.
+I currently work as a Computer Science Coach for the Utah State University Computer Science Department. The Utah State University Computer Science Coaching Lab is a tutoring center focused on helping students overcome conceptual and implementation based challenges in a comfortable and constructive environment.
 
 ## Learning
 
-I am currently learning to develop Android applications using Jetpack Compose and Kotlin. I am also learning about operating systems and computer architecture
+I am currently learning about Object Oriented Programming, and how to develop using Object Oriented development patterns. I am also learning about game development using C# and MonoGame, as well as JavaScript and HTML. In addition I am studying and learning about common modern web development practices, such as using TypeScript, React, and Node.JS to develop web applications. I currently am also taking an introduction to Cyber Security course. 
 
 ## Contact Information
 
-Contact me by email at [theaaronhanks@gmail.com](mailto:theaaronhanks@gmail.com)
+Contact me by email at [theaaronhanks@duck.com](mailto:theaaronhanks@duck.com)
