@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Introduction
 
-I'm @theaaronhanks. I'm a student studying Computer Science at Utah State University, and I plan to graduate May of 2024. I am interested in many areas of software development including cyber security, game development, and mobile application development.
+I'm @theaaronhanks. I'm a student studying Computer Science at Utah State University, and I plan to graduate December of 2023. I am interested in many areas of software development including developing websites, games, and mobile applications.
 
 ## Current Employment
 
