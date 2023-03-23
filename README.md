@@ -25,7 +25,7 @@ I currently work as a Computer Science Coach for the Utah State University Compu
 
 ## Learning
 
-I am currently learning about Object Oriented Programming, and how to develop using Object Oriented development patterns. I am also learning about game development using C# and MonoGame, as well as JavaScript and HTML. In addition I am studying and learning about common modern web development practices, such as using TypeScript, React, and Node.JS to develop web applications. I currently am also taking an introduction to Cyber Security course. 
+I am currently learning about Object Oriented Programming, and how to develop using Object Oriented design patterns. I am also learning about game development using JavaScript and HTML. In addition I am studying and learning about common modern web development practices, such as using TypeScript, React, Express, and Node.JS to develop web applications. I currently am also taking an introduction to Cyber Security course. 
 
 ## Contact Information
 
