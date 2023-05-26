@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 ## Introduction
 
-I'm @theaaronhanks. I'm a student studying Computer Science at Utah State University, and I plan to graduate December of 2023. I am interested in many areas of software development including developing websites, games, and mobile applications.
+I'm @theaaronhanks. I'm a student studying Computer Science at Utah State University, and I plan to graduate December of 2023. I am interested in many areas of software development including developing websites and mobile applications.
 
 ## Current Employment
 
-I currently work as a Computer Science Coach for the Utah State University Computer Science Department. The Utah State University Computer Science Coaching Lab is a tutoring center focused on helping students overcome conceptual and implementation based challenges in a comfortable and constructive environment.
+I currently work as a Web Development Intern for [FamilySearch](https://www.familysearch.org/en/), a service provided by [The Church of Jesus Christ of Latter-Day Saints](https://www.churchofjesuschrist.org/?lang=eng). FamilySearch is an international, nonprofit organization dedicated to helping all people discover their family story through genealogy and making family tree connections. I currently work to help develop the pedigree tree pages.
 
 ## Learning
 
-I am currently learning about Object Oriented Programming, and how to develop using Object Oriented design patterns. I am also learning about game development using JavaScript and HTML. In addition I am studying and learning about common modern web development practices, such as using TypeScript, React, Express, and Node.JS to develop web applications. I currently am also taking an introduction to Cyber Security course. 
+In my current internship I am learning to use React.js. I am also gaining experience working in an Agile Development environment with a small team of software developers. I am learning the processes and architecture involved in maintaining a large codebase. 
 
 ## Contact Information
 
