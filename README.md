@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 ## Introduction
 
-I'm @theaaronhanks. I'm a student studying Computer Science at Utah State University, and I will graduate December of 2023. I am interested in many areas of software development including developing websites and mobile applications, as well as artificial intelligence and high performance computing. I love to listen to music and play board games. 
+I'm @theaaronhanks. I am a recent graduate from Utah State University. I am interested in many areas of software development including developing websites and mobile applications, as well as artificial intelligence and other emerging technologies. I love to listen to music and play board games. 
 
 ## Current Employment
 
-I currently work as a Student Engineer for [FamilySearch](https://www.familysearch.org/en/), a service provided by [The Church of Jesus Christ of Latter-Day Saints](https://www.churchofjesuschrist.org/?lang=eng). FamilySearch is an international, nonprofit organization dedicated to helping all people discover their family story through genealogy and making family tree connections. I currently work with JavaScript and React.js to help develop the pedigree tree pages.
+I currently work as a Software Engineer at [RevRoad](https://revroad.com/). RevRoad is a Venture Services firm, where essential business services such as development, marketing, capital, and sales are provided in exchange for equity. I am working on a project for [Nomyx](https://www.nomyx.io/), one of RevRoad's portfolio companies.
 
 ## Learning
 
-In my current job I am learning to use React.js. I am also gaining experience working in an Agile Development environment with a small team of software developers. I am learning the processes and architecture involved in maintaining a large codebase. In addition, I am learning about computability, artificial neural networks, and multithreaded software development in my courses at USU.
+In my current job I have learned how to pick up new languages and frameworks quickly. I recently transitioned from a project using a Laravel/PHP backend and a Vue3 frontend, to working with Next.js and a Parse Server. Additionally, I have begun learning about blockchain technologies writing Solidity code, and deploying to the Ethereum blockchain.
 
 ## Contact Information
 
