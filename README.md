@@ -17,15 +17,22 @@ Here are some ideas to get you started:
 
 ## Introduction
 
-I'm @theaaronhanks. I am a recent graduate from Utah State University. I am interested in many areas of software development including developing websites and mobile applications, as well as artificial intelligence and other emerging technologies. I love to listen to music and play board games. 
+I am a full stack software developer proficient in developing high quality websites and mobile applications.
+
+I have developed my skills through 3 years of work experience. In my most recent job as a Software Engineer at RevRoad, I collaborated with 2 other developers to transform and streamline the purchase flow of the company with the highest ARR in RevRoad's portfolio. I also lead a project to reinvent the web application for RevRoad's fastest growing portfolio company. 
+
+I am an experienced and effective developer with an attention to detail. I am an independent learner, and I am able to adapt quickly to challenges.
 
 ## Current Employment
 
-I currently work as a Software Engineer at [RevRoad](https://revroad.com/). RevRoad is a Venture Services firm, where essential business services such as development, marketing, capital, and sales are provided in exchange for equity. I am working on a project for [Nomyx](https://www.nomyx.io/), one of RevRoad's portfolio companies.
+I am currently open to work! I am in search of a Software Engineer positon building full stack web applications or mobile apps. I am a quick learner, and I have had experience learning new frameworks and languages to fit the task at hand.
 
-## Learning
+## Skills
 
-In my current job I have learned how to pick up new languages and frameworks quickly. I recently transitioned from a project using a Laravel/PHP backend and a Vue3 frontend, to working with Next.js and a Parse Server. Additionally, I have begun learning about blockchain technologies writing Solidity code, and deploying to the Ethereum blockchain.
+- Programming languages: JavaScript, TypeScript, Java, Kotlin, Python, PHP, C#
+- Programming frameworks: React.js, Next.js, Vue.js, Express.js, Django, Laravel, Parse Server
+- General software skills: Object Oriented Programming, Agile Development, Git Version Control
+- Other skills: Fluent Spanish
 
 ## Contact Information
 
