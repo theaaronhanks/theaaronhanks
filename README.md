@@ -25,7 +25,7 @@ I am an experienced and effective developer with an attention to detail. I am an
 
 ## Current Employment
 
-I am currently open to work! I am in search of a Software Engineer positon building full stack web applications or mobile apps. I am a quick learner, and I have had experience learning new frameworks and languages to fit the task at hand.
+I am currently working for SolutionStream as a Software Engineer, helping to develop quality software for one of their many clients. I spend my day developing international webpages using Javascript and React.js. 
 
 ## Skills
 
